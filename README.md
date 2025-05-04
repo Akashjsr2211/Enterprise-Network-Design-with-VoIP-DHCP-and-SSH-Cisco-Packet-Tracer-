@@ -24,7 +24,7 @@ This simulation covers the following key components:
 - Logical addressing and interconnection between devices
 
 ### 2. **DHCP Configuration**
-- DHCP enabled on router
+- DHCP enabled on Server
 - Pool configuration includes:
   - IP range
   - Subnet mask
@@ -55,13 +55,13 @@ This simulation covers the following key components:
 ## 📸 Snapshots
 
 | Feature | Screenshot |
-|--------|------------|
-| Network Topology |
-| DHCP Configuration |
-| DHCP Request from Client |
-| Ping Test |
-| SSH Access to Router |
-| VoIP Connectivity |
+
+- Network Topology 
+- DHCP Configuration 
+- DHCP Request from Client 
+- Ping Test 
+- SSH Access to Router 
+- VoIP Connectivity 
 
 ---
 
